@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.first{
+    font-weight: 900;
+    font-size: 30px;
+}
+.second{
+    color: gray;
+}
+.third{
+    color: rgb(66, 187, 66);
+    font-weight: 700;
+}
+.fourth{
+    font-weight: 700;
+}
+.fifth{
+    padding-left: 18px;
+    padding-top: 20px;
+}
+.space{
+    font-size: medium;
+    font-weight: 600;
+}
+.card{
+    background-color: rgb(202, 228, 236);
+    margin-right: 80px;
+}
+.acc{
+    font-weight: 700;
+}
+.last{
+    font-size: 10px;
+    
+}
